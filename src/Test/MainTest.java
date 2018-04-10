@@ -89,7 +89,7 @@ class MainTest {
         for (int i=0;i<count;i++){
             basicRemote.volumeUp();
         }
-        assertEquals(device.getVolume(),40);
+        assertEquals(device.getVolume(),403);
     }
 
 
